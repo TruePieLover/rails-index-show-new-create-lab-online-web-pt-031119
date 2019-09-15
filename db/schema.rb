@@ -16,5 +16,4 @@ ActiveRecord::Schema.define(version: 0) do
   t.string "coupon_code"
   t.string "store"
 end
-
 end
